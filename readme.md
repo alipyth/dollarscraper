@@ -1,12 +1,12 @@
 سلام دوستان ،
 این پروژه برای استخراج قیمت لحظه ای دلار ، طلا و بیت کوین طراحی شده . 
 
-برای اجرای این پروژه :
-1 از کانال BotFather تلگرام یک بات جدید بسازید و توکن رو جایگزین کنید در متغیر "token" .
+How To Run :
+1 - create a new bot on "botfather" channel on telegram ..
+ 
+2 - Put Your Token into "token" variable
 
-2 چت آی دی خودتون رو در متغیر "chatid" قرار بدید . 
-3 در سایت https://deepnote.com/ ثبت نام کنید و یک نوت بوک بسازید . 
-4 کد رو داخل نوت بوک کپی کنید و از قسمت run روی schedule بزنید و بهش بگید که هر ساعت براتون ارسال کنه .
-5 پروژه رو ران کنید و تلگرامتون رو چک کنید.
+3 - Put Your CHAT_ID in "chatid" Variable
 
-موفق باشید .
+4 Run This Code on https://deepnote.com/ with Schedule .
+
